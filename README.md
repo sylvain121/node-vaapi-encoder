@@ -1,2 +1,4 @@
-# node-vaapi-encoder
-vaapi encoder for radeonsi and intel hardware
+# node-h264-vaapi
+
+node module to create h264 frame from RGB bitmap
+
